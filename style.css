@@ -14,8 +14,8 @@ h1 {
 
 .b {     
     width: 50%;     
-    margin-left: 25%;     
-    margin-top: 25%;     
+    margin: 25%;     
+      
     font-family: "Libre Baskerville", serif;     
     text-align: center;     
     color: white;       
